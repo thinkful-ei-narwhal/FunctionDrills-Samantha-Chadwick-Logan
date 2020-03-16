@@ -1,1 +1,4 @@
-console.log(`Hi, my name is Logan and I'm 27.`);
+function createGreeting {
+    console.log(`Hi, my name is Logan and I'm 27.`);
+};
+
